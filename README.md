@@ -1,6 +1,6 @@
 # Yazsum Yapay Zeka Yaz Okulu
 
-<img src="D:\GİTHUB REPO\YazsumScrapingCode\Yazsum.png" alt="Norway">
+<img src="https://raw.githubusercontent.com/EminMuhammed/YazsumScrapingCode/main/Yazsum.png" alt="Norway">
 
 YAZSUM İstanbul Üniversitesi, İstanbul Üniversitesi -Cerrahpaşa, Kocaeli Üniversitesi, Sakarya Üniversitesi ve Yalova Üniversitesi işbirliği ile düzenlenen ve alanlarında yetkin öğretim üyeleri ve uzman eğitmenler tarafından seminer ve eğitimler verilen bir etkinliktir.
 
