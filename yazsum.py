@@ -7,6 +7,10 @@ url_head = "https://www.emlakjet.com"
 
 
 def get_url(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/98.0.4758.102 Safari/537.36"}
+    
     """
     It sends requests to the url and parse it with beautifulsoup
 
@@ -20,7 +24,7 @@ def get_url(url):
     bs4.BeautifulSoup
 
     """
-    r = requests.get(url)
+    r = requests.get(url, headers=headers)
     soup = BeautifulSoup(r.content, "lxml")
     return soup
 
